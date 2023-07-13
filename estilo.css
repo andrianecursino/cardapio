@@ -1,13 +1,38 @@
 body {
-    background-color: lightblue;
+    background-color: black;
   }
-  
-  h4 {
+
+  #topo{
+    height: 260px;
+    background-image: url(imagem/cardapio-topo.jpg);
+
+  }
+
+  p{
     color: white;
+  }
+
+  h1 {
+    color: yellow;
+    font-weight: bold;
+    font-size: 54px;
+    text-decoration: underline;
     text-align: center;
   }
   
-  p {
-    font-family: verdana;
-    font-size: 15px;
+  h2 {
+    color: black;
+    background-color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+  }
+  
+  h3{
+    color: yellow;
+  }
+
+  img{
+    width: 500px;
   }
